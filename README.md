@@ -26,7 +26,7 @@ A modern, production-ready template combining Next.js 15+ and Convex backend for
 
 ```bash
 git clone https://github.com/sorryshady/next_convex_starter.git
-cd next-convex-template
+cd next_convex_starter
 ```
 
 2. Install dependencies:
